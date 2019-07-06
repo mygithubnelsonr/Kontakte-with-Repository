@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SqlDatabase>A:\Database\Kontakte\KontakteDb.mdf</SqlDatabase>
+  <ConnectionString>Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=KontakteDB;Integrated Security=True</ConnectionString>
+  <Caption>TestApp</Caption>
+</Config>
